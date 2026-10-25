@@ -1,0 +1,10 @@
+start 2026-10-25 23:59:04 CST
+slug ai-tattoo-design
+name AI纹身设计
+kw expand attempt 1 2026-10-25 23:59:04 CST
+kw expand done 2026-10-26 00:02:23 CST
+serp start 2026-10-26 00:02:23 CST
+serp done ec=0 2026-10-26 00:34:11 CST
+report start 2026-10-26 00:34:11 CST
+report end 2026-10-26 00:49:35 CST 用时 15 分钟
+done ai-tattoo-design 2026-10-26 00:49:35 CST
